@@ -4,17 +4,17 @@ The dataset includes employee-level data with attributes such as job role, depar
 
 -----------------------------------------------------------------------
 
-📌 Overview
+##📌 Overview
 This Attrition Intelligence Dashboard analyzes employee attrition patterns to help HR departments improve talent retention and manager effectiveness. It identifies key factors influencing employee turnover, such as job satisfaction, overtime, business travel, income levels, and promotions.
 
 -----------------------------------------------------------------------
 
-🎯 Problem Statement
+##🎯 Problem Statement
 HR departments need insights into the full employee journey—from hiring to resignation—to understand attrition drivers and implement retention strategies.
 
 -----------------------------------------------------------------------
 
-📊 Key Objectives
+## 📊 Key Objectives
 ✔ Identify top factors affecting attrition (e.g., job satisfaction, income, overtime).
 ✔ Analyze attrition rates by department, job level, and business travel.
 ✔ Predict high-risk employees likely to leave.
@@ -55,10 +55,8 @@ The interactive Power BI dashboard provides rich insights into:
 ## 🔍 Deep Insights
 
 
-1️⃣ High Attrition Segments : 
-The 
-
-Sales Department has the highest attrition (105.15%), especially at Job Level 1 (42.11%).
+**1️⃣ High Attrition Segments :** 
+The Sales Department has the highest attrition (105.15%), especially at Job Level 1 (42.11%).
 
 Frequent travellers with overtime show 41.86% attrition (vs. 17.28% without overtime).
 
@@ -67,7 +65,7 @@ Frequent travellers with overtime show 41.86% attrition (vs. 17.28% without over
 
 -----------------------------------------------------------------------
 
-2️⃣ Employees at High Risk of Leaving :
+**2️⃣ Employees at High Risk of Leaving :**
 
 
 Employees are more likely to leave if they have:
@@ -84,7 +82,7 @@ Frequent overtime
 
 -----------------------------------------------------------------------
 
-3️⃣ Age & Attrition Risk
+**3️⃣ Age & Attrition Risk**
 Middle-aged employees (30-45) have the highest attrition risk.
 | Age Group     | High Attrition Risk |
 |---------------|---------------------|
@@ -98,7 +96,7 @@ Middle-aged employees (30-45) have the highest attrition risk.
 -----------------------------------------------------------------------
 
 
-4️⃣ Salary & Promotions
+**4️⃣ Salary & Promotions**
 Higher work experience & promotions lead to higher salaries.
 
 62.3% of long-tenured employees received salary hikes/promotions.
@@ -111,7 +109,7 @@ Higher work experience & promotions lead to higher salaries.
 
 -----------------------------------------------------------------------
   
-5️⃣ Work-Life Balance Impact
+**5️⃣ Work-Life Balance Impact**
 Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.22% for rating=3).
 
 ![PowerBI_Hackthon_print_page-0011](https://github.com/user-attachments/assets/b313fbd2-f6f8-4a74-bd4b-32f456f69e8e)
@@ -152,7 +150,7 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 -----------------------------------------------------------------------
 
 
-🚀 Recommendations
+##🚀 Recommendations
 ✅ Improve job & environment satisfaction (training, feedback systems).
 ✅ Review compensation for high-attrition roles (Sales, Job Level 1).
 ✅ Reduce overtime & frequent travel for at-risk employees.
@@ -163,7 +161,7 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 -----------------------------------------------------------------------
 
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Power BI (Interactive Dashboard)
 
@@ -172,7 +170,7 @@ Power BI (Interactive Dashboard)
 -----------------------------------------------------------------------
 
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 Predictive modeling to flag high-risk employees.
 
 Department-specific retention strategies.
@@ -187,6 +185,10 @@ Add `.pbix` file for Power BI exploration.
 -----------------------------------------------------------------------
 
 
-🙌 Author
-BIMAL KUMAR SAINI
-Data Analyst Intern 📧 bimalsaini333@gmail.com 🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
+## 🙌 Author
+
+**BIMAL KUMAR SAINI**              
+Data Analyst Intern                      
+📧 bimalsaini333@gmail.com              
+🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
+
