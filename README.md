@@ -4,12 +4,12 @@ The dataset includes employee-level data with attributes such as job role, depar
 
 -----------------------------------------------------------------------
 
-##📌 Overview  
+## 📌 Overview  
 This Attrition Intelligence Dashboard analyzes employee attrition patterns to help HR departments improve talent retention and manager effectiveness. It identifies key factors influencing employee turnover, such as job satisfaction, overtime, business travel, income levels, and promotions.
 
 -----------------------------------------------------------------------
 
-##🎯 Problem Statement   
+## 🎯 Problem Statement   
 HR departments need insights into the full employee journey—from hiring to resignation—to understand attrition drivers and implement retention strategies.
 
 -----------------------------------------------------------------------
