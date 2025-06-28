@@ -133,17 +133,15 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 | File | Description |
 |------|-------------|
 
-| `ev.csv` |  Raw EV sales dataset |
+| `Attrition Intelligence Dashboard raw data.csv` |  Raw Attrition Intelligence dataset |
 
-| `ev.pdf` | Full Power BI dashboard export with all visualizations | 
+| `Attrition Intelligence Dashboard_print.pdf` | Full Power BI dashboard export with all visualisations | 
 
-| `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
+| `Attrition Intelligence Dashboard ppt.pptx`| Final presentation with insights |
 
-| `EV.ipynb`| Python scripts used to preprocess or summarize data |
+| `Attrition Intelligence Dashboard.pdf`|  Suggestion with insights for stackholders|
 
-| `ev.pbix`| Power BI used to visualize and summarize data |
-
-| `ev.exc`| Excel used to preprocess,summarize and visualize  data |
+| `Attrition Intelligence Dashboard.xlsx`| Excel used to preprocess, summarise and visualise  data |
 
 | `README.md`| Readme file summary of the data |
 
@@ -169,3 +167,7 @@ Predictive modeling to flag high-risk employees.
 Department-specific retention strategies.
 
 Real-time HR dashboard integration.
+
+Create real-time HR dashboard via Power BI Service.
+
+Add `.pbix` file for Power BI exploration.
