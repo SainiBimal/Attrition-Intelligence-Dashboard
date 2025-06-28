@@ -150,7 +150,7 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 -----------------------------------------------------------------------
 
 
-##🚀 Recommendations
+## 🚀 Recommendations
 ✅ Improve job & environment satisfaction (training, feedback systems).
 ✅ Review compensation for high-attrition roles (Sales, Job Level 1).
 ✅ Reduce overtime & frequent travel for at-risk employees.
@@ -161,7 +161,7 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 -----------------------------------------------------------------------
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Power BI (Interactive Dashboard)
 
