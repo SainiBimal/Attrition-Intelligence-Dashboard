@@ -32,6 +32,9 @@ The interactive Power BI dashboard provides rich insights into:
 - 📊 Monthly income vs. attrition comparisons
 - 📌 Employee segmentation by age group, tenure, and promotion cycles
 - 🧠 Risk profiling and predictive indicators like “Emp Leaving Chance”
+  
+-----------------------------------------------------------------------
+
 ![Dashboard](https://github.com/user-attachments/assets/53c15a0b-4145-46ef-9716-4e020f87db2d)
 
 -----------------------------------------------------------------------
@@ -56,6 +59,10 @@ The interactive Power BI dashboard provides rich insights into:
 Sales Department has the highest attrition (105.15%), especially at Job Level 1 (42.11%).
 
 Frequent travelers with overtime show 41.86% attrition (vs. 17.28% without overtime).
+
+![PowerBI_Hackthon_print_page-0001](https://github.com/user-attachments/assets/25f2cb8d-0e74-4914-bd83-213b67e90a0f)
+
+-----------------------------------------------------------------------
 
 2️⃣ Employees at High Risk of Leaving
 Employees are more likely to leave if they have:
