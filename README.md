@@ -135,7 +135,7 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 
 | `ev.csv` |  Raw EV sales dataset |
 
-| `ev.pdf` | Full Power BI dashboard export with all visualizations |
+| `ev.pdf` | Full Power BI dashboard export with all visualizations | 
 
 | `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
 
