@@ -93,7 +93,10 @@ Middle-aged employees (30-45) have the highest attrition risk.
 | Elder (45+)   | ❌ Very low         |
 
 ![PowerBI_Hackthon_print_page-0005](https://github.com/user-attachments/assets/43b83d66-692c-4d63-abe3-568f51d3cb15)
+
+
 -----------------------------------------------------------------------
+
 
 4️⃣ Salary & Promotions
 Higher work experience & promotions lead to higher salaries.
@@ -156,9 +159,17 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 ✅ Expedite promotions for employees waiting >3 years.
 ✅ Enhance work-life balance policies (flexible hours, remote work).
 
+
+-----------------------------------------------------------------------
+
+
 🛠️ Technologies Used
 
 Power BI (Interactive Dashboard)
+
+
+
+-----------------------------------------------------------------------
 
 
 📈 Future Enhancements
@@ -171,3 +182,11 @@ Real-time HR dashboard integration.
 Create real-time HR dashboard via Power BI Service.
 
 Add `.pbix` file for Power BI exploration.
+
+
+-----------------------------------------------------------------------
+
+
+🙌 Author
+BIMAL KUMAR SAINI
+Data Analyst Intern 📧 bimalsaini333@gmail.com 🔗 LinkedIn | [GitHub][https://github.com/SainiBimal]
