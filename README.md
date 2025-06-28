@@ -1,6 +1,5 @@
 # Attrition-Intelligence-Dashboard
 
-This repository contains a comprehensive **HR Attrition Analysis** project created using **Power BI** for supporting analytics. The goal is to uncover the factors behind employee attrition and help HR teams make data-driven decisions to improve retention.
 
 The dataset includes employee-level data with attributes such as job role, department, income, satisfaction scores, tenure, and more. This dashboard breaks down attrition behavior using KPI cards, visuals, and advanced filters.
 
