@@ -189,4 +189,4 @@ Add `.pbix` file for Power BI exploration.
 
 🙌 Author
 BIMAL KUMAR SAINI
-Data Analyst Intern 📧 bimalsaini333@gmail.com 🔗 LinkedIn | [GitHub][https://github.com/SainiBimal]
+Data Analyst Intern 📧 bimalsaini333@gmail.com 🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
