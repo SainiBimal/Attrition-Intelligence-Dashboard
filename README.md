@@ -102,9 +102,10 @@ Higher work experience & promotions lead to higher salaries.
 
 - Employees earning below ₹5K/month have the **highest chance to leave**
 - Employees with longer experience earn significantly more (₹15K–₹20K+)
-- 
+  
 ![PowerBI_Hackthon_print_page-0009](https://github.com/user-attachments/assets/988f6617-fd13-4de8-ac6d-d73431bda2de)
 ![PowerBI_Hackthon_print_page-0010](https://github.com/user-attachments/assets/5c176a4c-a853-4bc5-b2d6-fc84a8bfa68d)
+
 -----------------------------------------------------------------------
   
 5️⃣ Work-Life Balance Impact
@@ -124,20 +125,28 @@ Employees with poor work-life balance (rating=1) have 31.25% attrition (vs. 14.2
 - Slicers by:
   - Department
   - Gender & Marital Status
-  - Job Role
-  - Experience Group
-  - Promotion Group
-
+  
 -----------------------------------------------------------------------
 
+## 📁 Files in this Repository
 
-📂 Files Included
+| File | Description |
+|------|-------------|
 
-Attrition_Analysis.ipynb – Jupyter Notebook with EDA & visualizations.
+| `ev.csv` |  Raw EV sales dataset |
 
-attrition_data.csv – Dataset used for analysis.
+| `ev.pdf` | Full Power BI dashboard export with all visualizations |
 
-Dashboard_Screenshots/ – Interactive dashboard visuals.
+| `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
+
+| `EV.ipynb`| Python scripts used to preprocess or summarize data |
+
+| `ev.pbix`| Power BI used to visualize and summarize data |
+
+| `ev.exc`| Excel used to preprocess,summarize and visualize  data |
+
+| `README.md`| Readme file summary of the data |
+
 
 -----------------------------------------------------------------------
 
